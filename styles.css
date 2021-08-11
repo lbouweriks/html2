@@ -1,0 +1,18 @@
+body{
+    background-color:red;
+}
+
+h1{
+    font-size: 28px;
+    font-family: Helvetica;
+    border: 1px solid black;
+    color:white;
+}
+
+#terug{
+    color:black;
+}
+
+.next{
+    color:white;
+}
