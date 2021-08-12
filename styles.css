@@ -16,3 +16,13 @@ h1{
 .next{
     color:white;
 }
+
+
+li{
+    margin:2%;
+    display:inline;
+}
+
+a{
+    color:white
+}
